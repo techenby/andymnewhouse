@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-😄 Pronouns: they/them
-💬 Ask me about why pronouns and dark modes are important
-🌱 I’m currently learning React, and getting more familiar with javascript
-📫 How to reach me: hi@andymnewhouse.me or @andymnewhouse
-⚡ Fun fact: I'm left handed
+- 😄 Pronouns: they/them
+- 💬 Ask me about why pronouns and dark modes are important
+- 🌱 I’m currently learning React, and getting more familiar with javascript
+- 📫 How to reach me: hi@andymnewhouse.me or @andymnewhouse
+- ⚡ Fun fact: I'm left handed
